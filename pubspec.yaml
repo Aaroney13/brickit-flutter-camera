@@ -1,0 +1,10 @@
+name: brickit_camera
+description: A fork of the Brickit Flutter camera with iOS enhancements.
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
